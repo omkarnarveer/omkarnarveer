@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omkarnarveer
-- 👀 I’m interested in Domains like Data Science, Machine Learning, Full Stack Python Devlopment, Full Stack Java Development, Web Development
+- 👀 I’m interested in Domains like Aritificial Intelligence, Data Science, Machine Learning, Full Stack Python Devlopment, Full Stack Java Development, Web Development,Intrnet of Things, Blockchain Technology, Ethical Hacking
 - 🌱 I’m currently learning Full Stack Java
 - 📫 How to reach me omkarnarveer@gmail.com
 
