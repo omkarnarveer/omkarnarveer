@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - Backend Tech Stack      : Java Spring Boot (Hibernate-JPA), Node (Express)
 - Frontend Tech Stack     : Angular, Bootstrap
 - Database                : MySQL
-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/omkarnarveer/" target="blank">
