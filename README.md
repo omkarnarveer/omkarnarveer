@@ -4,7 +4,7 @@
 </h1>
 <!-- Typing SVG by DenverCoder1 - https://github.com/omkarnarveer/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/omkarnarveer/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira&size=23&color=F74533&background=EFFF4F00&center=true&width=500&height=45&lines=A+Self+Taught+Developer;Learning+Web+App+Development;Backend+Developer;A+Quick+Learner"></a>
+  <a href="https://github.com/omkarnarveer/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira&size=23&color=F74533&background=EFFF4F00&center=true&width=500&height=45&lines=A+Self+Taught+Developer;Learning+Full+Stack+Development;A+Quick+Learner"></a>
 </p>
 <!-- <h1 align="center">Hey there, Omkar here</h1>
 <h3 align="center">Technology Enthusiast</h3> -->
@@ -30,23 +30,17 @@ Here are some ideas to get you started:
 - Backend Tech Stack      : Java Spring Boot (Hibernate-JPA), Node (Express)
 - Frontend Tech Stack     : Angular, Bootstrap
 - Database                : MySQL
-
-
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/omkarnarveer/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkarnarveer" height="30" width="40" />
-    </a>
-    <a href="https://github.com/omkarnarveer" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omkarnarveer" height="30" width="40" />
-    </a>
-    
+    </a>    
 </p>
 <br>
-<h1 align="center">🛠️ My favorite tools 🛠️ </h1>
+<h1 align="center">🛠️ My Favorite Tools 🛠️ </h1>
 <div align="center">
-    <h3>👨‍💻 Programming languages</h3>
+    <h3>👨‍💻 Programming Languages</h3>
     <!--<h3 align="left">Languages and Tools:</h3> -->
     <p align="center">
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -85,11 +79,22 @@ Here are some ideas to get you started:
         </a>
         </p>
     <h3>🗄️ Database</h3>
-    <p align="center"> 
-        
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+     <p align="center"> 
+        <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="50"/> 
+        </a> 
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-        </a>         
+        </a> 
+        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="66" height="60"/> 
+        </a>
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+        </a>
     </p>
     <h3>💻 Software and Tools</h3>
     <p align="center"> 
