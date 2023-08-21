@@ -110,7 +110,6 @@ Here are some ideas to get you started:
         <a href="https://visualstudiocode.com/" target="_blank" rel="noreferrer">  
             <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
         </a>
-        
         <a href="https://obsdtudio.org" target="_blank" rel="noreferrer"> 
             <img src="https://img.icons8.com/nolan/64/obs-studio.png" alt="obs" width="40" height="40"/> 
         </a>
