@@ -112,9 +112,6 @@ Here are some ideas to get you started:
                 </br>
                 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarnarveer&theme=nightowl&hide_border=true&date_format=M%20j[,%20Y]" />
             </td>
-            <td width="50%" align="center">
-                <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=omkarnarveer&theme=nightowl&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-            </td>
         </tr>
     </table>
     <br>
