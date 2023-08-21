@@ -1,3 +1,5 @@
+
+
 <h1 align="center">
   Welcome to Omkar's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -8,10 +10,10 @@
   <a href="https://github.com/omkarnarveer/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira&size=23&color=F74533&background=EFFF4F00&center=true&width=500&height=45&lines=A+Self+Taught+Developer;Learning+Web+App+Development;Backend+Developer;A+Quick+Learner"></a>
 </p>
 
-<!-- <h1 align="center">Hey there, Omkar here</h1>
+<!-- <h1 align="center">Hey there, Pushpak here</h1>
 <h3 align="center">Technology Enthusiast</h3> -->
 <!--
-**aniketshaw29/aniketshaw29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**omkarnarveer/omkarnarveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
@@ -22,32 +24,30 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 Graduated with a **BE degree** from **_Jaihind Collge of Engineering, Kuran._**
+- 🔭 Graduated with a **BE Computer Engineering degree** from **_Savitribai Phule Pune University._**
 
-- 🌱 Focusing on **gaining new skills on _Full Stack Development._**
+- 🌱 Focusing on **gaining new skills on _Full Stack Java using Angular Development._**
 
-- 📫 Mail me here --> **omkarnarveer@gmail.com**
+- 📫 Mail me here --> **omkarnarveer07@gmail.com**
 
 
 - Backend Tech Stack      : Java Spring Boot (Hibernate-JPA), Node (Express)
-- Frontend Tech Stack     : Angular, Bootstrap
+- Frontend Tech Stack     : Angular
 - Database                : MySQL
+
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/omkarnarveer/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketshaw29" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkarnarveer" height="30" width="40" />
     </a>
-    <a href="https://www.hackerrank.com/aniketshaw" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketshaw29" height="30" width="40" />
+    <a href="https://github.com/omkarnarveer" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omkarnarveer" height="30" width="40" />
     </a>
-    <a href="https://www.instagram.com/shaw.py/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniketshaw29" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/AniketShaw#9455" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Debajyoti#2111" height="30" width="40" />
-    </a>
+    <a href="#" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omkarnarveer" height="30" width="40" />
+    </a> 
 </p>
 <br>
 <h1 align="center">🛠️ My favorite tools 🛠️ </h1>
@@ -82,40 +82,23 @@ Here are some ideas to get you started:
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
         </a>
-        <!--  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> -->
-        <!-- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-        </a>  -->
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
         <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="60"/> 
         </a> -->
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
         </a>
-        <!-- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-        </a> -->
-    </p>
-    <h3>🗄️ Databases and Cloud Hosting</h3>
+            </p>
+    <h3>🗄️ Database</h3>
     <p align="center"> 
-        <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="50"/> 
-        </a> 
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        
+                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
         </a> 
-        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="66" height="60"/> 
-        </a>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-        </a>
+                
     </p>
-    <h3>💻 Software and tools</h3>
+    <h3>💻 Software and Tools</h3>
     <p align="center"> 
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -129,17 +112,12 @@ Here are some ideas to get you started:
         <a href="https://visualstudiocode.com/" target="_blank" rel="noreferrer">  
             <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
         </a>
-        <a href="https://jupyter.org" target="_blank" rel="noreferrer"> 
-            <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="jupyter" width="40" height="40"/> 
-            </a>
+        
         <a href="https://obsdtudio.org" target="_blank" rel="noreferrer"> 
             <img src="https://img.icons8.com/nolan/64/obs-studio.png" alt="obs" width="40" height="40"/> 
         </a>
         <a href="https://eclipse.org" target="_blank" rel="noreferrer">
             <img src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="eclipse" width="40" height="40"/> 
-        </a>
-        <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
         </a>
     </p>
 </div>
@@ -150,13 +128,13 @@ Here are some ideas to get you started:
     <table border="0" align="center">
         <tr border="0">
             <td width="50%" align="center">
-                <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=aniketshaw29&theme=nightowl&show_icons=true&count_private=true" />
+                <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=omkarnarveer&theme=nightowl&show_icons=true&count_private=true" />
                 <br>
                 </br>
-                <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=aniketshaw29&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+                <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarnarveer&theme=nightowl&hide_border=true&date_format=M%20j[,%20Y]" />
             </td>
             <td width="50%" align="center">
-                <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aniketshaw29&theme=nightowl&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+                <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=omkarnarveer&theme=nightowl&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
             </td>
         </tr>
     </table>
