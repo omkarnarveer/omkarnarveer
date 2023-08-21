@@ -11,7 +11,7 @@
 <!-- <h1 align="center">Hey there, Omkar here</h1>
 <h3 align="center">Technology Enthusiast</h3> -->
 <!--
-**aniketshaw29/aniketshaw29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**omkarnarveer/omkarnarveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
@@ -39,11 +39,11 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/omkarnarveer/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketshaw29" height="30" width="40" />
     </a>
-    <a href="https://www.hackerrank.com/aniketshaw" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketshaw29" height="30" width="40" />
+    <a href="https://www.hackerrank.com/omkarnarveer" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omkarnarveer" height="30" width="40" />
     </a>
     <a href="https://www.instagram.com/shaw.py/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniketshaw29" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omkarnarveer17" height="30" width="40" />
     </a>
     <a href="https://discord.gg/AniketShaw#9455" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Debajyoti#2111" height="30" width="40" />
