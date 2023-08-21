@@ -4,13 +4,12 @@
   Welcome to Omkar's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-
 <!-- Typing SVG by DenverCoder1 - https://github.com/omkarnarveer/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/omkarnarveer/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira&size=23&color=F74533&background=EFFF4F00&center=true&width=500&height=45&lines=A+Self+Taught+Developer;Learning+Web+App+Development;Backend+Developer;A+Quick+Learner"></a>
 </p>
 
-<!-- <h1 align="center">Hey there, Pushpak here</h1>
+<!-- <h1 align="center">Hey there, Omkar here</h1>
 <h3 align="center">Technology Enthusiast</h3> -->
 <!--
 **omkarnarveer/omkarnarveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 Graduated with a **BE Computer Engineering degree** from **_Savitribai Phule Pune University._**
+- 🔭 Graduated with a **BE Computer Engineering** from **_Savitribai Phule Pune University._**
 
 - 🌱 Focusing on **gaining new skills on _Full Stack Java using Angular Development._**
 
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 
 
 - Backend Tech Stack      : Java Spring Boot (Hibernate-JPA), Node (Express)
-- Frontend Tech Stack     : Angular
+- Frontend Tech Stack     : Angular, Bootstrap
 - Database                : MySQL
 
 
